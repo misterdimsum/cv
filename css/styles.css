@@ -4,6 +4,10 @@
     background-color: #ece8d9;
   }
 
+  img {
+    width:350px;height:350px;
+  }
+
   h1 {
     color: #1f4068;
   }
@@ -19,6 +23,3 @@
     width: 40px;
   }
 
-  img {
-    width:350px;height:350px;
-  }
